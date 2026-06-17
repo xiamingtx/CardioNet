@@ -1,5 +1,5 @@
 # Dataset Description
-This repository contains the dataset for the paper: **"Cardiac 3D Mechanical and Electrical Signal Reconstruction via Defocused Speckle Imaging"**. 
+This repository contains the dataset for the paper: **"[Cardiac 3D Mechanical and Electrical Signal Reconstruction via Defocused Speckle Imaging](https://ieeexplore.ieee.org/abstract/document/11551354)"**. 
 
 It provides dual-camera Defocused Speckle Imaging (DSI) videos and cardiac signals. The dataset is collected from two distinct cohorts to ensure robustness and clinical relevance.
 
